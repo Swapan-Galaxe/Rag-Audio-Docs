@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+langchain-community
+openai-whisper
+pypdf
+python-docx
+python-dotenv
+faiss-cpu
+tiktoken
+tqdm
+fastapi
+uvicorn[standard]
+python-multipart
+chromadb
+gradio
+mcp
+tenacity
